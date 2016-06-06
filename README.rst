@@ -2,15 +2,16 @@
 Cookiecutter PyPackage
 ======================
 
-.. image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-   :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
-.. image:: https://requires.io/github/audreyr/cookiecutter-pypackage/requirements.svg?branch=master
-   :target: https://requires.io/github/audreyr/cookiecutter-pypackage/requirements?branch=master
+.. image:: https://img.shields.io/travis/digwanderlust/cookiecutter-pypackage.svg
+   :target: https://travis-ci.org/digwanderlust/cookiecutter-pypackage
+.. image:: https://requires.io/github/digwanderlust/cookiecutter-pypackage/requirements.svg?branch=master
+   :target: https://requires.io/github/digwanderlust/cookiecutter-pypackage/requirements?branch=master
    :alt: Dependencies
 
 Cookiecutter_ template for a Python package.
 
-* GitHub repo: https://github.com/audreyr/cookiecutter-pypackage/
+* Personalized cookie cutter based on https://github.com/audreyr/cookiecutter-pypackage/
+* GitHub repo: https://github.com/digwanderlust/cookiecutter-pypackage/
 * Free software: BSD license
 
 Features
@@ -24,7 +25,7 @@ Features
 * Auto-release to PyPI_ when you push a new tag to master (optional)
 * Command line interface using Click (optional)
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _Cookiecutter: https://github.com/digwanderlust/cookiecutter
 
 Quickstart
 ----------
@@ -35,7 +36,7 @@ Install cookiecutter if you haven't installed it yet)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/digwanderlust/cookiecutter-pypackage.git
 
 Then:
 
@@ -108,6 +109,6 @@ make my own packaging experience better.
 .. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
 .. _`tony/cookiecutter-pypackage-pythonic`: https://github.com/tony/cookiecutter-pypackage-pythonic
 .. _`ardydedase/cookiecutter-pypackage`: https://github.com/ardydedase/cookiecutter-pypackage
-.. _github comparison view: https://github.com/tony/cookiecutter-pypackage-pythonic/compare/audreyr:master...master
-.. _`network`: https://github.com/audreyr/cookiecutter-pypackage/network
-.. _`family tree`: https://github.com/audreyr/cookiecutter-pypackage/network/members
+.. _github comparison view: https://github.com/tony/cookiecutter-pypackage-pythonic/compare/digwanderlust:master...master
+.. _`network`: https://github.com/digwanderlust/cookiecutter-pypackage/network
+.. _`family tree`: https://github.com/digwanderlust/cookiecutter-pypackage/network/members
