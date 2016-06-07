@@ -4,7 +4,7 @@ Tutorial
 .. note:: Did you find any of these instructions confusing? `Edit this file`_
           and submit a pull request with your improvements!
 
-.. _`Edit this file`: https://github.com/audreyr/cookiecutter-pypackage/blob/master/docs/tutorial.rst
+.. _`Edit this file`: https://github.com/digwanderlust/cookiecutter-pypackage/blob/master/docs/tutorial.rst
 
 Step 1: Install Cookiecutter
 ----------------------------
@@ -47,7 +47,7 @@ Use cookiecutter, pointing it at the cookiecutter-pypackage repo:
 
 .. code-block:: bash
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/digwanderlust/cookiecutter-pypackage.git
 
 You'll be asked to enter a bunch of values to set the package up.
 If you don't know what to enter, stick with the defaults.
@@ -135,7 +135,7 @@ Release your package the standard Python way.
 
 `PyPI Help`_ submitting a package.
 
-Here's a release checklist: https://gist.github.com/audreyr/5990987
+Here's a release checklist: https://gist.github.com/digwanderlust/5990987
 
 .. _ `PyPI`: https://pypi.python.org/pypi
 .. _ `PyPI Help`: http://peterdowns.com/posts/first-time-with-pypi.html
